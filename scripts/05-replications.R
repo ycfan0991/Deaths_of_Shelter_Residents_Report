@@ -1,19 +1,19 @@
 #### Preamble ####
-# Purpose: Replicated graphs from... [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
-# Date: 11 February 2023 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
+# Purpose: Replicated graphs from
+# Author: Peter Fan
+# Date: 23 September 2024
+# Contact: peteryc.fan@mail.utoronto.ca
 # License: MIT
-# Pre-requisites: [...UPDATE THIS...]
-# Any other information needed? [...UPDATE THIS...]
+# Pre-requisites: 
+# Any other information needed? 
 
 
 #### Workspace setup ####
 library(tidyverse)
-# [...UPDATE THIS...]
+
 
 #### Load data ####
-# [...ADD CODE HERE...]
+
 
 
 
